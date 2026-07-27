@@ -44,13 +44,15 @@ Data Analyst | Python | SQL | Power BI | Excel | Tableau
 </p>
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yash565368&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yash565368&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash565368&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash565368&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Yash565368&amp;theme=tokyonight&amp;hide_border=true"/>
 
 </p>
 
