@@ -81,7 +81,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn *(Coming Soon)*
+- 💼 LinkedIn *www.linkedin.com/in/yashagrahari22*
 - 📧 Email: **yashagrahari42@gmail.com**
 - 🌐 Portfolio *(Coming Soon)*
 
