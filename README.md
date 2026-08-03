@@ -64,6 +64,7 @@
 ## 🚀 Featured Projects
 
 ✅ Sales Analytics Project
+
 ✅ HR Analytics Project
 
 ---
@@ -83,7 +84,7 @@
 
 - 💼 LinkedIn *www.linkedin.com/in/yashagrahari22*
 - 📧 Email: **yashagrahari42@gmail.com**
-- 🌐 Portfolio *(Coming Soon)*
+- 🌐 Portfolio *https://github.com/Yash565368*
 
 ---
 
