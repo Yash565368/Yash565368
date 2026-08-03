@@ -63,11 +63,8 @@
 
 ## 🚀 Featured Projects
 
-- 📈 Sales Dashboard *(Coming Soon)*
-- 👨‍💼 HR Analytics Dashboard *(Coming Soon)*
-- 🛒 E-Commerce Sales Analysis *(Coming Soon)*
-- 🎬 Netflix Data Analysis *(Coming Soon)*
-- 📉 Customer Churn Analysis *(Coming Soon)*
+✅ Sales Analytics Project
+✅ HR Analytics Project
 
 ---
 
